@@ -1,7 +1,4 @@
-### Hi there 👋
-
 <!--
-
 - 🔭 I’m currently working on ...CMD Fund Collation application Design and Implementation
 - 🌱 I’m currently learning ... Android Programming
 - 👯 I’m looking to collaborate on ...
