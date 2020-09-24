@@ -1,4 +1,5 @@
-<!--
+## Here is what I'm currently working on!
+
 - 🔭 I’m currently working on ...CMD Fund Collation application Design and Implementation
 - 🌱 I’m currently learning ... Android Programming
 - 👯 I’m looking to collaborate on ...
@@ -7,4 +8,4 @@
 - 📫 How to reach me: ... https://twitter.com/solidwo07765499?s=09 https://www.instagram.com/_solid.works/?hl=en
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
