@@ -2,10 +2,23 @@
 
 - Intermediate Developer and Amatuer UI/UX Designer
 - Ideas anyone? 👉 https://pin.it/13gh8qg 👈
-- 👯 I’m looking to collaborate on ... Java, Kotlin
-- 🤔 I’m looking for help with ...Anything
+- #Java and #Kotlin enthusiast
 - 💬 Ask me about ... Programming, Wood works, Wood art.
-- [Twitter](https://twitter.com/solidwo07765499?s=09),[Instagram](https://www.instagram.com/_solid.works)
-- 😄 Pronouns: ...Me
+- Follow me on [Twitter](https://twitter.com/solidwo07765499?s=09) and [Instagram](https://www.instagram.com/_solid.works)
 - ⚡ Fun fact: ... The 'h' in software development stands for happiness!
+- {...♥️} #SpreadLove
 
+<!--
+**solidtm/solidtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
