@@ -1,10 +1,10 @@
 
-
 - Intermediate Developer and Amatuer UI/UX Designer
 - Ideas anyone? 👉 https://pin.it/13gh8qg 👈
+- Leader CMD coding team 2019-Till date
 - #Java and #Kotlin enthusiast
-- 💬 Ask me about ... Programming, Wood works, Wood art.
 - Follow me on [Twitter](https://twitter.com/solidwo07765499?s=09) and [Instagram](https://www.instagram.com/_solid.works)
+- 💬 Ask me about ... Programming, Wood works, Wood art.
 - ⚡ Fun fact: ... The 'h' in software development stands for happiness!
 - {...♥️} #SpreadLove
 
