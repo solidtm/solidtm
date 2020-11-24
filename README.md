@@ -1,5 +1,5 @@
 
-- Intermediate Developer and Amatuer UI/UX Designer
+- Java Developer and Amatuer UI/UX Designer
 - Ideas anyone? 👉 https://pin.it/13gh8qg 👈
 - Leader CMD coding team 2019-Till date
 - #Java and #Kotlin enthusiast
