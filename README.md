@@ -1,7 +1,7 @@
 
 - Java Developer and Amatuer UI/UX Designer
 - Ideas anyone? 👉 https://pin.it/13gh8qg 👈
-- Leader CMD coding team 2019-Till date
+- Leader CMD Technology team 2019-2021
 - #Java and #Kotlin enthusiast
 - Follow me on [Twitter](https://twitter.com/solidwo07765499?s=09) and [Instagram](https://www.instagram.com/_solid.works)
 - 💬 Ask me about ... Programming, Wood works, Wood art.
