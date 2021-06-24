@@ -1,9 +1,10 @@
 
-- Java Developer and Intermediate Android Developer
-- Ideas anyone? 👉 https://pin.it/13gh8qg 👈
-- Leader CMD Students Technology team 2019-2021
-- #Java, #Kotlin and Android enthusiast
-- Follow me on [Twitter](https://twitter.com/solidwo07765499?s=09) and [Instagram](https://www.instagram.com/_solid.works)
+- 🔭 Java Developer and Intermediate Android Developer
+- 🤔 Ideas anyone? 👉 https://pin.it/13gh8qg 👈
+- 👯 Leader CMD Students Technology team 2019-2021
+- 🌱 I’m currently learning Android applications development
+- 🌱 #Java, #Kotlin and Android enthusiast
+- 📫 Reach me on [Twitter](https://twitter.com/solidwo07765499?s=09) and [Instagram](https://www.instagram.com/_solid.works)
 - 💬 Ask me about ... Programming, Software technology, Wood works, Wood art.
 - ⚡ Fun fact: ... The 'h' in software development stands for happiness!
 - {...♥️} #SpreadLove
@@ -13,12 +14,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on understanding Algorithms and Data Structures
+- 🌱 I’m currently learning Android Development
+- 👯 I’m looking to collaborate on any Java based projects, open source projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
