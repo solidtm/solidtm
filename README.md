@@ -1,10 +1,10 @@
 
-- Java Developer and Amatuer UI/UX Designer
+- Java Developer and Intermediate Android Developer
 - Ideas anyone? 👉 https://pin.it/13gh8qg 👈
-- Leader CMD Technology team 2019-2021
-- #Java and #Kotlin enthusiast
+- Leader CMD Students Technology team 2019-2021
+- #Java, #Kotlin and Android enthusiast
 - Follow me on [Twitter](https://twitter.com/solidwo07765499?s=09) and [Instagram](https://www.instagram.com/_solid.works)
-- 💬 Ask me about ... Programming, Wood works, Wood art.
+- 💬 Ask me about ... Programming, Software technology, Wood works, Wood art.
 - ⚡ Fun fact: ... The 'h' in software development stands for happiness!
 - {...♥️} #SpreadLove
 
