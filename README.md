@@ -4,6 +4,8 @@
 - 👯 Leader CMD Students Technology team 2019-2021
 - 🌱 I’m currently learning Android applications development
 - 🌱 #Java, #Kotlin and Android enthusiast
+- 👯 I’m looking to collaborate on any Java based projects, open source projects
+- 🤔 I’m looking for help with a job role that fits my profile
 - 📫 Reach me on [Twitter](https://twitter.com/solidwo07765499?s=09) and [Instagram](https://www.instagram.com/_solid.works)
 - 💬 Ask me about ... Programming, Software technology, Wood works, Wood art.
 - ⚡ Fun fact: ... The 'h' in software development stands for happiness!
