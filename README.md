@@ -1,6 +1,6 @@
 
 - 🔭 Java Developer and Intermediate Android Developer
-- 🤔 Ideas anyone? 👉 https://pin.it/13gh8qg 👈
+- 😄 Ideas anyone? 👉 https://pin.it/13gh8qg 👈
 - 👯 Leader CMD Students Technology team 2019-2021
 - 🌱 I’m currently learning Android applications development
 - 🌱 #Java, #Kotlin and Android enthusiast
