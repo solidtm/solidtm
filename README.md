@@ -10,3 +10,5 @@
 - 💬 Ask me about ... Programming, Software technology, Wood works, Wood art.
 - ⚡ Fun fact: ... The 'h' in software development stands for happiness!
 - {...♥️} #SpreadLove
+
+- [![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=solidtm)](https://github.com/anuraghazra/github-readme-stats)
